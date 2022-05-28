@@ -31,14 +31,14 @@ participants will yield evidence of neuronal traces of
 magnetoreception, and we can collectively publish an exciting
 paper. And if not, we will publish our negative results together.
 
-## More information
-
 If you are potentially interested, please first read our
 [Collaboration
-plan](https://github.com/citneuro/magnetsearch/blob/main/MagnetSearch.pdf),
+plan](https://github.com/citneuro/magnetsearch/raw/main/MagnetSearch.pdf),
 then fill out the [Participation
 form](https://forms.gle/veeA6HLHHdt7KUTe7).
 
-For an example of how we are currently thinking about data analysis, there is a [Technical paper on spectral analysis](https://github.com/citneuro/magnetsearch/blob/main/Technical-Report-211110.pdf).
+## More information
+
+For an example of how we are currently thinking about data analysis, there is a [Technical paper on spectral analysis](https://github.com/citneuro/magnetsearch/raw/main/Technical-Report-211110.pdf).
 
 Also, feel free to reach out directly to [Daniel Wagenaar](mailto:daw@caltech.edu) or [Markus Meister](mailto:meister@caltech.edu).
