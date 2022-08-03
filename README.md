@@ -1,5 +1,5 @@
 # MagnetSearch
-A search for magnetosensitive neurons
+A community science project to search for magnetosensitive neurons
 
 ## Introduction
 
